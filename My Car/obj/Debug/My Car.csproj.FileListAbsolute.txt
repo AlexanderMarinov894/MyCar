@@ -1,0 +1,13 @@
+D:\Projects\My Car\My Car\bin\Debug\My Car.exe
+D:\Projects\My Car\My Car\bin\Debug\MyCarDB.accdb
+D:\Projects\My Car\My Car\bin\Debug\My Car.exe.config
+D:\Projects\My Car\My Car\obj\Debug\MyCar.Forms.AddVehicle.resources
+D:\Projects\My Car\My Car\obj\Debug\MyCar.Forms.BaseForm.resources
+D:\Projects\My Car\My Car\obj\Debug\MyCar.Forms.Main.resources
+D:\Projects\My Car\My Car\obj\Debug\MyCar.Forms.Prompts.NewVehichleConfirm.resources
+D:\Projects\My Car\My Car\obj\Debug\My_Car.Properties.Resources.resources
+D:\Projects\My Car\My Car\obj\Debug\My Car.csproj.GenerateResource.Cache
+D:\Projects\My Car\My Car\obj\Debug\My Car.exe
+D:\Projects\My Car\My Car\obj\Debug\My Car.pdb
+D:\Projects\My Car\My Car\bin\Debug\My Car.pdb
+D:\Projects\My Car\My Car\obj\Debug\My Car.csprojResolveAssemblyReference.cache
